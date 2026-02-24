@@ -3,7 +3,7 @@
 Fine-tuning a pre-trained transformer model for movie review sentiment classification.
 
 ## Results
-- **Accuracy: 84%**
+- **Accuracy: 85.5%**
 - Base model: distilbert-base-uncased
 - Dataset: IMDB (25,000 movie reviews)
 - Training: 3 epochs using HuggingFace Trainer API
